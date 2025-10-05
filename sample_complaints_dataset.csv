@@ -1,0 +1,26 @@
+complaint_id,complaint_text,department,urgency
+1001,No water supply in my area since 2 days,Water Department,Medium
+1002,Water pipe leakage on main road,Water Department,Medium
+1003,Contaminated water coming from taps,Water Department,High
+1004,Water tanker not arrived on schedule,Water Department,Low
+1005,Low water pressure in my house,Water Department,Medium
+1006,Frequent power cuts during the day,Electricity Department,High
+1007,Electric wire hanging dangerously,Electricity Department,Low
+1008,No electricity in my block since morning,Electricity Department,Low
+1009,Street lights not working at night,Electricity Department,Low
+1010,Electric pole broken after storm,Electricity Department,Medium
+1011,Garbage not collected for 3 days,Sanitation Department,Low
+1012,Drainage water overflowing on streets,Sanitation Department,Low
+1013,Public toilet not cleaned regularly,Sanitation Department,Low
+1014,Foul smell from garbage bin,Sanitation Department,Medium
+1015,Sewage pipe blockage near park,Sanitation Department,High
+1016,Potholes on the main road,Road and Transport Department,High
+1017,Damaged speed breaker in my street,Road and Transport Department,Medium
+1018,Heavy traffic due to signal failure,Road and Transport Department,Medium
+1019,Road construction work not completed,Road and Transport Department,High
+1020,No zebra crossing at school area,Road and Transport Department,High
+1021,Stray dogs causing trouble in colony,Municipal Services,High
+1022,Tree branches blocking footpath,Municipal Services,Medium
+1023,Illegal parking on footpaths,Municipal Services,Low
+1024,Need fogging for mosquito control,Municipal Services,Medium
+1025,Open manhole on the street corner,Municipal Services,Medium

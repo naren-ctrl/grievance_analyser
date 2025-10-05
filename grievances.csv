@@ -1,0 +1,9 @@
+id,text,department,urgency
+1,Street lights are not working in our area,Electricity,Normal
+2,There is a gas leak near my home,Fire and Safety,Urgent
+3,Water supply is not coming since morning,Water Board,Normal
+4,The garbage is not collected for 3 days,Sanitation,Normal
+5,Drainage water is overflowing on the road,Public Works,Urgent
+6,Severe power cut for the last 2 days,Electricity,Urgent
+7,Broken pipeline causing water leakage,Water Board,Urgent
+8,Unauthorized construction is happening nearby,Urban Development,Normal
